@@ -5,7 +5,6 @@
  <body>
  <?php echo '<p>Hola Mundo</p>';
 	echo '<p>Elayne Perez Sanchez</p>';
-	echo '<p>Adios</p>'; 
  ?>
  </body>
 </html>
